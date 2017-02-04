@@ -21,14 +21,23 @@ Original Readme.txt contents:
 -----------------------------
 
 make:
+
 	builds the a4 files
+	
 make db:
+
 	builds the db program
+	
 make python:
+
 	sets executalbe privledges for python
 	
+	
 Problems:
+
 	Cannot load a text file larger than 64KB into the database
+	
 	With A3 the files downloaded from courselink would not properly convert to HTML, however if copied
+	
 	the copies would properly convert Still waiting on re-grade to know significance. 
 	
